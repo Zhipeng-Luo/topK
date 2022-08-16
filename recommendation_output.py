@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from plotly.subplots import make_subplots
-import matplotlib.pyplot as plt
 from PIL import Image
 from collections import defaultdict
 
